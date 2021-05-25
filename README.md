@@ -18,3 +18,8 @@
 
 ## Information Extraction
 ### - Named Entity Recognition
+### - Relation Extraction
+### - Event Extraction
+### - Speech Recognition (in Audios)
+### - Video Summarisation (in Videos)
+### - Facial/Text Recognition (in Images)
